@@ -1,0 +1,6 @@
+Book ID,Book Name,Author,Category,Price,Status
+101,Python Basics,Ravi,Programming,450,Available
+102,Data Science,John,Technology,600,Available
+103,Machine Learning Basics,Andrew,Technology,750,Available
+104,English Grammar,Wren,Education,300,Available
+105,Database Management,Korth,Database,550,Available

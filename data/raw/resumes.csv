@@ -1,0 +1,9 @@
+id,name,email,skills,experience,education,location,salary
+101,Rahul,rahul@gmail.com,"Python,Pandas,NumPy,SQL",3,MCA,Hyderabad,600000
+102,Priya,priya@gmail.com,"Python,Machine Learning,SQL",2,MSc,Hyderabad,550000
+103,Suresh,suresh@gmail.com,"Java,Spring Boot,SQL",4,BTech,Bangalore,700000
+104,Anil,anil@gmail.com,"Python,Django,SQL,Git",1,BTech,Hyderabad,450000
+105,Meena,meena@gmail.com,"Python,Pandas,Machine Learning,Deep Learning",4,MCA,Chennai,800000
+106,Kiran,kiran@gmail.com,"Python,NumPy,SQL,Power BI",3,MBA,Hyderabad,650000
+107,Arjun,arjun@gmail.com,"Java,SQL,Spring Boot",5,BTech,Pune,900000
+108,Sneha,sneha@gmail.com,"Python,Pandas,SQL,Machine Learning",2,MCA,Hyderabad,500000
